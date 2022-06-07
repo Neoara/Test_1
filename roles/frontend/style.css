@@ -1,0 +1,17 @@
+#mainBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#post_title{
+    width: 234px;
+    margin-bottom: 5px;
+}
+
+#create_btn{
+    margin-top: 5px;
+    font-size: 18px;
+    margin-left: 173px;
+}
